@@ -112,7 +112,6 @@
                      <div class="row d_flex">
                         <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12">
                            <div class="best_text">
-                              
                               <a href="#">See More</a>
                            </div>
                         </div>
@@ -134,7 +133,6 @@
                         </div>
                         <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12">
                            <div class="best_text flot_left">
-                              
                               <a href="#">See More</a>
                            </div>
                         </div>
@@ -144,7 +142,6 @@
                      <div class="row d_flex">
                         <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12">
                            <div class="best_text">
-                              
                               <a href="#">See More</a>
                            </div>
                         </div>
@@ -168,7 +165,6 @@
                <div class="col-md-12">
                   <div class="titlepage">
                      <h2>Request a  call back</h2>
-                     
                   </div>
                </div>
             </div>
@@ -213,7 +209,6 @@
                <div class="col-md-12">
                   <div class="titlepage">
                      <h2>Our Clients</h2>
-                     
                   </div>
                </div>
             </div>
@@ -338,6 +333,5 @@
       <script src="C:\Users\Admin\Documents\SoniJwellers\SoniJwellers\js/jquery.mCustomScrollbar.concat.min.js"></script>
       <script src="C:\Users\Admin\Documents\SoniJwellers\SoniJwellers\js/custom.js"></script>
       <script src="C:\Users\Admin\Documents\SoniJwellers\SoniJwellers\js/jquery.fancybox.min.js"></script>
-    
    </body>
 </html>
