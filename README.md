@@ -79,7 +79,7 @@ This will add all the metadata for all the protcols from the ARTIC group to the 
 
 ### Add a page using html
 
-You can also add a page using html. Checkout `template.md` (via [SoniJwellers/index.html](https://SoniJwellers/index.html)) if you want to see the stock example. 
+You can also add a page using html. Checkout `template.md` (via [SoniJwellers/index.html](https://https://sonironit.github.io/SoniJewllers.github.io/SoniJwellers/SoniJwellers/index.html)) if you want to see the stock example. 
 
 ***
 
@@ -139,4 +139,4 @@ Credits:
 
 ### Jekyll port
 
-The Jekyll port was made by [andrewbanchich](https://github.com/sonijwellers/forty-jekyll-theme) and tweaked by [Soni-Ronit](https://github.com/RonitSoni).
+The Jekyll port was made by [andrewbanchich](https://sonironit.github.io/SoniJewllers.github.io/SoniJwellers/SoniJwel/index.html) and tweaked by [Soni-Ronit](https://github.com/RonitSoni).
