@@ -14,18 +14,18 @@
       <meta name="description" content="">
       <meta name="author" content="">
       <!-- bootstrap css -->
-      <link rel="stylesheet" href="C:\Users\Admin\Documents\SoniJwellers\SoniJwellers\css/bootstrap.min.css">
+      <link rel="stylesheet" href="C:\Users\Admin\Downloads\SoniJwellers\SoniJwellers\css/bootstrap.min.css">
       <!-- style css -->
-      <link rel="stylesheet" href="C:\Users\Admin\Documents\SoniJwellers\SoniJwellers\css/style.css">
+      <link rel="stylesheet" href="C:\Users\Admin\Downloads\SoniJwellers\SoniJwellers\css/style.css">
       <!-- Responsive-->
-      <link rel="stylesheet" href="C:\Users\Admin\Documents\SoniJwellers\SoniJwellers\css/responsive.css">
+      <link rel="stylesheet" href="C:\Users\Admin\Downloads\SoniJwellers\SoniJwellers\css/responsive.css">
       <!-- fevicon -->
       <link rel="icon" href="images/fevicon.png" type="image/gif" />
       <!-- Scrollbar Custom CSS -->
-      <link rel="stylesheet" href="C:\Users\Admin\Documents\SoniJwellers\SoniJwellers\css/jquery.mCustomScrollbar.min.css">
+      <link rel="stylesheet" href="C:\Users\Admin\Downloads\SoniJwellers\SoniJwellers\css/jquery.mCustomScrollbar.min.css">
       <!-- Tweaks for older IEs-->
-      <link rel="stylesheet" href="C:\Users\Admin\Documents\SoniJwellers\SoniJwellers\css/font-awesome.css">
-      <link rel="stylesheet" href="C:\Users\Admin\Documents\SoniJwellers\SoniJwellers\css/jquery.fancybox.min.css" media="screen">
+      <link rel="stylesheet" href="C:\Users\Admin\Downloads\SoniJwellers\SoniJwellers\css/font-awesome.css">
+      <link rel="stylesheet" href="C:\Users\Admin\Downloads\SoniJwellers\SoniJwellers\css/jquery.fancybox.min.css" media="screen">
       <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script><![endif]-->
@@ -34,7 +34,7 @@
    <body class="main-layout">
       <!-- loader  -->
       <div class="loader_bg">
-         <div class="loader"><img src="C:\Users\Admin\Documents\SoniJwellers\SoniJwellers\images/loading.gif" alt="#" /></div>
+         <div class="loader"><img src="C:\Users\Admin\Downloads\SoniJwellers\SoniJwellers\images/loading.gif" alt="#" /></div>
       </div>
       <!-- end loader -->
       <!-- header -->
@@ -48,7 +48,7 @@
                         <div class="full">
                            <div class="center-desk">
                               <div class="logo">
-                                 <a href="index.html"><img src="C:\Users\Admin\Documents\SoniJwellers\SoniJwellers\images/Navlogo.png" alt="#" /></a>
+                                 <a href="index.html"><img src="C:\Users\Admin\Downloads\SoniJwellers\SoniJwellers\images/Navlogo.png" alt="#" /></a>
                               </div>
                            </div>
                         </div>
@@ -86,7 +86,7 @@
                         </div>
                         <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12">
                            <div class="text-img">
-                              <figure><img src="C:\Users\Admin\Documents\SoniJwellers\SoniJwellers\images/img.png" /></figure>
+                              <figure><img src="C:\Users\Admin\Downloads\SoniJwellers\SoniJwellers\images/img.png" /></figure>
                            </div>
                         </div>
                      </div>
@@ -118,7 +118,7 @@
                         <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12">
                            <div class="best_img">
                               <h4>Best Design Of Ring</h4>
-                              <figure><img src="C:\Users\Admin\Documents\SoniJwellers\SoniJwellers\images/beimg.png"></figure>
+                              <figure><img src="C:\Users\Admin\Downloads\SoniJwellers\SoniJwellers\images/beimg.png"></figure>
                            </div>
                         </div>
                      </div>
@@ -128,7 +128,7 @@
                         <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12">
                            <div class="best_img croos_rt">
                               <h4>Best Design Of Ring</h4>
-                              <figure><img src="C:\Users\Admin\Documents\SoniJwellers\SoniJwellers\images/beimg2.png"></figure>
+                              <figure><img src="C:\Users\Admin\Downloads\SoniJwellers\SoniJwellers\images/beimg2.png"></figure>
                            </div>
                         </div>
                         <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12">
@@ -148,7 +148,7 @@
                         <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12">
                            <div class="best_img d_none">
                               <h4>Best Design Of Ring</h4>
-                              <figure><img src="C:\Users\Admin\Documents\SoniJwellers\SoniJwellers\images/beimg3.png"></figure>
+                              <figure><img src="C:\Users\Admin\Downloads\SoniJwellers\SoniJwellers\images/beimg3.png"></figure>
                            </div>
                         </div>
                      </div>
@@ -195,7 +195,7 @@
                <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12">
                   <div class="rable-box">
                      <figure>
-                     <img src="C:\Users\Admin\Documents\SoniJwellers\SoniJwellers\images/cac.png" alt="#" />
+                     <img src="C:\Users\Admin\Downloads\SoniJwellers\SoniJwellers\images/cac.png" alt="#" />
                   </div>
                </div>
             </div>
@@ -227,8 +227,8 @@
                                  <div class="row d_flex">
                                     <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12 pa_rile">
                                        <div class="img_box">
-                                          <i><img src="C:\Users\Admin\Documents\SoniJwellers\SoniJwellers\images/icon_1.png" alt="#"/></i>
-                                          <figure><img src="C:\Users\Admin\Documents\SoniJwellers\SoniJwellers\images/clients.png" alt="#"/></figure>
+                                          <i><img src="C:\Users\Admin\Downloads\SoniJwellers\SoniJwellers\images/icon_1.png" alt="#"/></i>
+                                          <figure><img src="C:\Users\Admin\Downloads\SoniJwellers\SoniJwellers\images/clients.png" alt="#"/></figure>
                                        </div>
                                     </div>
                                     <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12 pa_rile">
@@ -247,8 +247,8 @@
                                  <div class="row d_flex">
                                     <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12 pa_rile">
                                        <div class="img_box">
-                                          <i><img src="C:\Users\Admin\Documents\SoniJwellers\SoniJwellers\images/icon_1.png" alt="#"/></i>
-                                          <figure><img src="C:\Users\Admin\Documents\SoniJwellers\SoniJwellers\images/clients.png" ></figure>
+                                          <i><img src="C:\Users\Admin\Downloads\SoniJwellers\SoniJwellers\images/icon_1.png" alt="#"/></i>
+                                          <figure><img src="C:\Users\Admin\Downloads\SoniJwellers\SoniJwellers\images/clients.png" ></figure>
                                        </div>
                                     </div>
                                     <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12 pa_rile">
@@ -267,8 +267,8 @@
                                  <div class="row d_flex">
                                     <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12 pa_rile">
                                        <div class="img_box">
-                                          <i><img src="C:\Users\Admin\Documents\SoniJwellers\SoniJwellers\images/icon_1.png" alt="#"/></i>
-                                          <figure><img src="C:\Users\Admin\Documents\SoniJwellers\SoniJwellers\images/clients.png"></figure>
+                                          <i><img src="C:\Users\Admin\Downloads\SoniJwellers\SoniJwellers\images/icon_1.png" alt="#"/></i>
+                                          <figure><img src="C:\Users\Admin\Downloads\SoniJwellers\SoniJwellers\images/clients.png"></figure>
                                        </div>
                                     </div>
                                     <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12 pa_rile">
@@ -324,14 +324,14 @@
       </footer>
       <!-- end footer -->
       <!-- Javascript files-->
-      <script src="C:\Users\Admin\Documents\SoniJwellers\SoniJwellers\js/jquery.min.js"></script>
-      <script src="C:\Users\Admin\Documents\SoniJwellers\SoniJwellers\js/popper.min.js"></script>
-      <script src="C:\Users\Admin\Documents\SoniJwellers\SoniJwellers\js/bootstrap.bundle.min.js"></script>
-      <script src="C:\Users\Admin\Documents\SoniJwellers\SoniJwellers\js/jquery-3.0.0.min.js"></script>
-      <script src="C:\Users\Admin\Documents\SoniJwellers\SoniJwellers\js/plugin.js"></script>
+      <script src="C:\Users\Admin\Downloads\SoniJwellers\SoniJwellers\js/jquery.min.js"></script>
+      <script src="C:\Users\Admin\Downloads\SoniJwellers\SoniJwellers\js/popper.min.js"></script>
+      <script src="C:\Users\Admin\Downloads\SoniJwellers\SoniJwellers\js/bootstrap.bundle.min.js"></script>
+      <script src="C:\Users\Admin\Downloads\SoniJwellers\SoniJwellers\js/jquery-3.0.0.min.js"></script>
+      <script src="C:\Users\Admin\Downloads\SoniJwellers\SoniJwellers\js/plugin.js"></script>
       <!-- sidebar -->
-      <script src="C:\Users\Admin\Documents\SoniJwellers\SoniJwellers\js/jquery.mCustomScrollbar.concat.min.js"></script>
-      <script src="C:\Users\Admin\Documents\SoniJwellers\SoniJwellers\js/custom.js"></script>
-      <script src="C:\Users\Admin\Documents\SoniJwellers\SoniJwellers\js/jquery.fancybox.min.js"></script>
+      <script src="C:\Users\Admin\Downloads\SoniJwellers\SoniJwellers\js/jquery.mCustomScrollbar.concat.min.js"></script>
+      <script src="C:\Users\Admin\Downloads\SoniJwellers\SoniJwellers\js/custom.js"></script>
+      <script src="C:\Users\Admin\Downloads\SoniJwellers\SoniJwellers\js/jquery.fancybox.min.js"></script>
    </body>
 </html>
