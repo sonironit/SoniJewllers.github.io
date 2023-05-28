@@ -139,4 +139,4 @@ Credits:
 
 ### Jekyll port
 
-The Jekyll port was made by [andrewbanchich](https://sonironit.github.io/SoniJewllers.github.io/SoniJwellers/SoniJwel/index.html) and tweaked by [Soni-Ronit](https://github.com/RonitSoni).
+The Jekyll port was made by [soniJwellers](https://sonironit.github.io/SoniJewllers.github.io/SoniJwellers/SoniJwel/index.html) and tweaked by [Soni-Ronit](https://github.com/RonitSoni).
